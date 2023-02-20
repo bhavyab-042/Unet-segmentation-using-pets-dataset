@@ -1,4 +1,4 @@
-# Image-Segmentation-Uisng-Pets-Dataset
+# Image-Segmentation-Using-Pets-Dataset
 Training a Convolutional Neural Network to perform Image Segmentation on Oxford Pets Dataset
 
 Project Structure:
